@@ -4,7 +4,8 @@
     "dependencies": {
         "device": "*",
         "adventure": "github:microsoft/arcade-tutorial-extensions/adventure#v0.0.12",
-        "adventure_imgs": "github:kiki-lee/adventure_imgs"
+        "adventure_imgs": "github:kiki-lee/adventure_imgs",
+        "controller": "*"
     },
     "files": [
         "main.blocks",

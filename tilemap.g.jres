@@ -10,6 +10,12 @@
         "tilemapTile": true,
         "displayName": "myTilebrokenglass"
     },
+    "tile2": {
+        "data": "hwQQABAAAACqqqqqqkpEVczMzMysqupeu7u7y83uqqrd3d27ve7uzBER0d29vuvLd3cR0d3u7c53/3/d3eHezncvcd3d596+ES8R3d3n3t7dL93d3e4eHrv/3d3dcX5+zMyy3d3hHh6qquLe3e7d3lWkqszd6+u+RGSmyszu7sxmZuaqqu6uqg==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile"
+    },
     "leveldungeon1": {
         "id": "leveldungeon1",
         "mimeType": "application/mkcd-tilemap",
